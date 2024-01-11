@@ -2,5 +2,5 @@ import { defineConfig } from 'vite'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/bar-chart-data-visualization/'
+  base: '/d3-bar-chart-data-visualization/'
 })
